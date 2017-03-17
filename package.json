@@ -1,0 +1,14 @@
+{
+  "name": "phonetic-reduce",
+  "version": "1.0.0",
+  "description": "generate phonetic equivalents from list of words/phrases",
+  "main": "phonetic-reduce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Don Hoellein",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^0.5.0"
+  }
+}
